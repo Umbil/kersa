@@ -1,1 +1,1 @@
-# kersa
+# UCH_AI_Course
